@@ -1,9 +1,9 @@
-驴縋or qu茅 un lenguaje de programaci贸n s贸lo puede utilizarse en algunos sistemas operativos y en otros no?. 
+驴Por qu茅 un lenguaje de programaci贸n s贸lo puede utilizarse en algunos sistemas operativos y en otros no?. 
 Esto no es completamente cierto ya que existen lenguajes que pueden ser utilizados en mas de un so.
 Adicional dependera del metodo elegido para distribuir el programa compilado, interpretado o
 
 驴Qu茅 tipo de m谩quina virtual soporta virtualBox?. 
-Windows, Linux, Freebsd, entre otras, b胹icamente tiene soporte para casi todas las distribuciones que acepten arquitectura 64 bits, exceptuando quizas arm y procesadores especiales
+Windows, Linux, Freebsd, entre otras, b谩sicamente tiene soporte para casi todas las distribuciones que acepten arquitectura 64 bits, exceptuando quizas arm y procesadores especiales
 
 驴Qu茅 funci贸n cumple el hypervisor en la virtualizaci贸n?
 es el encargado de administrar y simular el hardware que utiliza el so de la maquina virtualizada
