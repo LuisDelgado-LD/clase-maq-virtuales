@@ -1,0 +1,14 @@
+¿�Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Esto no es completamente cierto ya que existen lenguajes que pueden ser utilizados en mas de un so.
+Adicional dependera del metodo elegido para distribuir el programa compilado, interpretado o
+
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+Windows, Linux, Freebsd, entre otras, b�sicamente tiene soporte para casi todas las distribuciones que acepten arquitectura 64 bits, exceptuando quizas arm y procesadores especiales
+
+¿Qué función cumple el hypervisor en la virtualización?
+es el encargado de administrar y simular el hardware que utiliza el so de la maquina virtualizada
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Depende, si la maquina que se "rompe" afecta de alguna forma el hardware (por ejemplo empieza a utilizar la ram) puede afectar incluso hasta el host anfitrion, tambien existen casos donde es el mismo hipervisor que se rompe y afecta de una u otra forma a las maquinas contenidas.
+En los casos mas simples es raro ver que una vm rota afecte a otra en ejecucion
+
